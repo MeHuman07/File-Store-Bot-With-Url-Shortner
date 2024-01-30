@@ -33,7 +33,7 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
  
  I am Super noob Please Support My Hard Work.
 
-[Donate Me](https://t.me/@Itz_dead_soul)
+[Donate Me](https://t.me/Itz_dead_soul)
 """
   HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
