@@ -24,8 +24,8 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 ╭────[ 🔅FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅]────⍟
 │
 ├🔸 My Name: [FileStore Bot](https://t.me/{BOT_USERNAME})
-│        JAI SHREE RAM 
-|    BOT MADE BY TSUNAMI 
+│        JAI SHREE RAM   
+│   BOT MADE BY TSUNAMI 
 ╰──────[ 😎 ]───────────⍟
 """
   ABOUT_DEV_TEXT = f"""
