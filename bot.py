@@ -354,7 +354,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Updates Channel", url=https://t.me/TSUNAMI_BOTS"")
+                        InlineKeyboardButton("Updates Channel", url="https://t.me/TSUNAMI_BOTS")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
