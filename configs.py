@@ -30,7 +30,7 @@ class Config(object):
   ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [TSUNAMI](https://telegram.me/Itz_dead_soul)
  
- I am Super noob Please Support My Hard Work.
+ I am Student and beginner Please Support My Hard Work.
 
 [Donate Me](https://t.me/Itz_dead_soul)
 """
