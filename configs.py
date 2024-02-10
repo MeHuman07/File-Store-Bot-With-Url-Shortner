@@ -20,10 +20,10 @@ class Config(object):
   ABOUT_BOT_TEXT = f"""
 
 
-╭────[ 🔅 STORAGE BOT 🔅]────⍟
+╭────[ 🔅 MOON SSC 🔅]────⍟
 │
 ├🔸 My Name: [Storage Bot](https://t.me/{BOT_USERNAME})
-│        JAI SHREE RAM   
+│          
 │   BOT MADE BY TSUNAMI 
 ╰──────[ 😎 ]───────────⍟
 """
